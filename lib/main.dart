@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:todos_app/ui/cubits/main_cubit.dart';
 import 'package:todos_app/ui/cubits/save_cubit.dart';
-import 'package:todos_app/ui/cubits/update_cubit.dart';
+import 'package:todos_app/ui/cubits/detail_cubit.dart';
 import 'package:todos_app/ui/screens/main_screen.dart';
 
 void main() {

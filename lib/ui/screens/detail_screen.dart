@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:todos_app/data/entity/todos.dart';
 import 'package:todos_app/ui/components/my_app_bar.dart';
-import 'package:todos_app/ui/cubits/update_cubit.dart';
+import 'package:todos_app/ui/cubits/detail_cubit.dart';
 import 'package:todos_app/ui/tools/app_colors.dart';
 
 class DetailScreen extends StatefulWidget {
