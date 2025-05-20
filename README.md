@@ -1,16 +1,65 @@
-# todos_app
+# ✅ Flutter ToDo App
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-Cubit-blue?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Getting Started
+## EN:
+This project is a simple **ToDo application** developed with **Flutter**.  
+It uses **BLoC (Cubit)** architecture for state management, **Dio** for HTTP operations, and **SQLite** for database operations.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Application Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📝 **List** tasks  
+- ➕ **Add** new tasks  
+- ✏️ **Update** existing tasks  
+- ❌ **Delete** tasks  
+- 💾 Persistent data storage with **SQLite**  
+- ⚙️ Clean and manageable state management with **Cubit**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧱 Technologies Used
+
+- **Flutter** – UI development  
+- **flutter_bloc** – Cubit/BLoC architecture  
+- **Sqflite** – Local database  
+
+---
+
+## TR: 
+Bu proje, Flutter ile geliştirilmiş basit bir **ToDo uygulamasıdır**.  
+Durum yönetiminde **BLoC (Cubit)** mimarisi, HTTP işlemlerinde **Dio**, veritabanı işlemlerinde ise **SQLite** kullanılmıştır.
+
+---
+
+## 📱 Uygulama Özellikleri
+
+- 📝 Görevleri **listeleme**
+- ➕ Yeni görev **ekleme**
+- ✏️ Görev **güncelleme**
+- ❌ Görev **silme**
+- 💾 **SQLite** ile kalıcı veri saklama
+- ⚙️ **Cubit** ile temiz ve yönetilebilir durum yönetimi
+
+---
+
+## 🧱 Kullanılan Teknolojiler
+
+- **Flutter** – UI geliştirme
+- **flutter_bloc** – Cubit/BLoC mimarisi
+- **Sqflite** – Yerel veritabanı
+
+---
+
+## Proje Çıktısı:
+---
+![mainscreen](images/main-screen.png)
+---
+![detailscreen](images/detail-update-screen.png)
+---
+![savecreen](images/save-screen.png)
+---
+![delete](images/delete.png)
