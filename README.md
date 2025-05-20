@@ -54,12 +54,16 @@ Durum yönetiminde **BLoC (Cubit)** mimarisi, HTTP işlemlerinde **Dio**, verita
 
 ---
 
-## Proje Çıktısı:
+## 📸 Project Preview:
 ---
+**Mainpage**
 ![mainscreen](images/main-screen.png)
 ---
+**Detail- update screen***
 ![detailscreen](images/detail-update-screen.png)
 ---
+**Save screen**
 ![savecreen](images/save-screen.png)
 ---
+**Delete task**
 ![delete](images/delete.png)
