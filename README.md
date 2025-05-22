@@ -6,7 +6,7 @@
 
 ## EN:
 This project is a simple **ToDo application** developed with **Flutter**.  
-It uses **BLoC (Cubit)** architecture for state management, **Dio** for HTTP operations, and **SQLite** for database operations.
+It uses **BLoC (Cubit)** architecture for state management and **SQLite** for database operations.
 
 ---
 
@@ -31,7 +31,7 @@ It uses **BLoC (Cubit)** architecture for state management, **Dio** for HTTP ope
 
 ## TR: 
 Bu proje, Flutter ile geliştirilmiş basit bir **ToDo uygulamasıdır**.  
-Durum yönetiminde **BLoC (Cubit)** mimarisi, HTTP işlemlerinde **Dio**, veritabanı işlemlerinde ise **SQLite** kullanılmıştır.
+Durum yönetiminde **BLoC (Cubit)** mimarisi, veritabanı işlemlerinde ise **SQLite** kullanılmıştır.
 
 ---
 
