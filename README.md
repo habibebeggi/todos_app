@@ -56,10 +56,25 @@ Durum yönetiminde **BLoC (Cubit)** mimarisi, veritabanı işlemlerinde ise **SQ
 
 ## 📸 Project Preview:
 
-<p align="center">
-  <img src="images/main-screen.png" width="200" alt="Main Page"/>
-  <img src="images/detail-update-screen.png" width="200" alt="Detail / Update Screen"/>
-  <img src="images/save-screen.png" width="200" alt="Save Screen"/>
-  <img src="images/delete.png" width="200" alt="Delete Task"/>
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <strong>Main Page</strong><br>
+      <img src="images/main-screen.png" width="250"/>
+    </td>
+    <td align="center">
+      <strong>Detail / Update Screen</strong><br>
+      <img src="images/detail-update-screen.png" width="250"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Save Screen</strong><br>
+      <img src="images/save-screen.png" width="250"/>
+    </td>
+    <td align="center">
+      <strong>Delete Task</strong><br>
+      <img src="images/delete.png" width="250"/>
+    </td>
+  </tr>
+</table>
